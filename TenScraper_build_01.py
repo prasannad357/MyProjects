@@ -1,4 +1,4 @@
-#    C:\Users\Prasanna\Downloads
+
 from selenium import webdriver
 from selenium.webdriver.support.ui import Select
 from bs4 import BeautifulSoup
